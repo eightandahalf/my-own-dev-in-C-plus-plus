@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\Programming\C++\Cherno_constructor\Cherno_constructor\Main.cpp(43): error C2280: 'Log::Log(void)': attempting to reference a deleted function
+E:\Programming\C++\Cherno_constructor\Cherno_constructor\Main.cpp(32): message : see declaration of 'Log::Log'
+E:\Programming\C++\Cherno_constructor\Cherno_constructor\Main.cpp(32,2): message : 'Log::Log(void)': function was explicitly deleted
