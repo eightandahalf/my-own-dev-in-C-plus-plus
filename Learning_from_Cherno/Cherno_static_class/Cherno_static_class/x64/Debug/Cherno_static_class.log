@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\Programming\C++\Cherno_static_class\Cherno_static_class\Main.cpp(18,9): warning C4101: 'e': unreferenced local variable
+E:\Programming\C++\Cherno_static_class\Cherno_static_class\Main.cpp(22,9): warning C4101: 'e1': unreferenced local variable
+  Cherno_static_class.vcxproj -> E:\Programming\C++\Cherno_static_class\x64\Debug\Cherno_static_class.exe
