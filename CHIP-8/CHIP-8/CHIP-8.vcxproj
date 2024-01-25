@@ -112,6 +112,9 @@
   <ItemGroup>
     <ClInclude Include="Chip8.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chip8.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

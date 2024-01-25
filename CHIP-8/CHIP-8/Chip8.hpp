@@ -145,5 +145,10 @@ private:
 	std::uniform_int_distribution<uint8_t> randByte;
 
 	typedef void (Chip8::*Chip8Func)();
+	Chip8Func table[0xF + 1];
+	Chip8Func table0[0xE + 1];
+	Chip8Func table8[0xE + 1];
+	Chip8Func tableE[0xE + 1];
+	Chip8Func tableF[0x65 + 1];
 
-
+};
